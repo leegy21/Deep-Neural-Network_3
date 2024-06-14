@@ -4,8 +4,8 @@
 
 ### CIFAR-10
 
-+ CIFAR-10 데이터셋을 사용하여 다층 퍼셉트론 또는 Wide & Deep 모델을 구축하고, 텐서보드를 활용하여 모델 학습 과정을 시각화해보세요. 
-+ 또한 모델 성능 향상을 위해 Early Stopping과 ModelCheckpoint 콜백을 사용해보세요.
++ CIFAR-10 데이터셋을 사용하여 다층 퍼셉트론 또는 Wide & Deep 모델을 구축하고, 텐서보드를 활용하여 모델 학습 과정을 시각화한다
++ 또한 모델 성능 향상을 위해 Early Stopping과 ModelCheckpoint 콜백을 사용한다
 
 절차:
 1. CIFAR-10 데이터셋 불러오기 및 관찰하기
